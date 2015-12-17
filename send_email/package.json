@@ -1,0 +1,18 @@
+{
+  "name": "send_email",
+  "version": "0.0.1",
+  "description": "nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "nodemailer"
+  ],
+  "author": "chenss",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemailer": "^1.10.0",
+    "nodemailer-smtp-transport": "^1.0.4"
+  }
+}

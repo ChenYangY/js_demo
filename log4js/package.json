@@ -1,0 +1,14 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "log4js apply",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "chenss",
+  "license": "MIT"
+}

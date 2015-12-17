@@ -1,0 +1,25 @@
+{
+  "name": "uncompress",
+  "version": "0.0.1",
+  "description": "uncompress file,and ergodic file",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "uncompress"
+  ],
+  "author": "chenss",
+  "license": "MIT",
+  "dependencies": {
+    "eventproxy": "^0.3.4",
+    "events": "^1.1.0",
+    "fs-extra": "^0.26.2",
+    "path": "^0.12.7",
+    "unzip": "^0.1.11"
+  },
+  "devDependencies": {
+    "archiver": "^0.20.0",
+    "zip-stream": "^0.8.0"
+  }
+}
